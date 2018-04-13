@@ -1,3 +1,3 @@
 # MVVMTwo
-MVVM在的tableview中的上应用
-抽离的的的的的tableview的代理，自定义刷新控件
+MVVM在tableview上的使用
+抽离tableview的代理文件，自定义刷新控件
